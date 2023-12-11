@@ -1,1 +1,2 @@
-# mini_challenge_1_landing_page
+# mini-challenge-module-1
+landing page exercise
